@@ -1,0 +1,3 @@
+﻿  ACM.cpp
+c:\users\trae\documents\visual studio 2012\projects\acm\acm\acm.cpp(46): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  ACM.vcxproj -> c:\users\trae\documents\visual studio 2012\Projects\ACM\Debug\ACM.exe
